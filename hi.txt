@@ -1,1 +1,3 @@
 Hi I created this file in bhargavik0301 git hub cloning repo
+this file I have forked and cloned to local repo via git clone url
+and then added the upstream to local via git remote add upstream url.
